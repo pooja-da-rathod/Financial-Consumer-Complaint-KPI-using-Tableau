@@ -23,18 +23,18 @@ I deduced various quantifiable measures by creating new calculated fields, Param
 
 **INSIGHTS gained**:
 
-•	75,513 Total number of  Complaints  were recovered. 
-•	98.05% of responses by bank were delivered in time as shown in horizontal chart.
-•	There were 283 complaints pending which, a minute 0.37% of the total  Companies’ response to Consumer. It implies that Bank is quick in handling cases majorly.
-•	84.52% of cases were resolved with monetary relief.
-•	The Highest Number of  Complaints wrt to Products/Services were found in Credit Card
-o	Credit Card  ~ 19,176 (25.36%)
-o	Checking or Saving Account ~ 13,436(17.79%)
-o	Mortgage ~ 12,470 (16.51%)
-•	There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 pie Chart were created and dual axis feature was checked.
-•	Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
-•	The top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal. KPI was shown through dual axis feature.
-•	For showing complaints in every state with increasing value, hex map was used to better view.
+* 75,513 Total number of  Complaints  were recovered. 
+* 98.05% of responses by bank were delivered in time as shown in horizontal chart.
+* There were 283 complaints pending which, a minute 0.37% of the total  Companies’ response to Consumer. It implies that Bank is quick in handling cases majorly.
+* 84.52% of cases were resolved with monetary relief.
+* The Highest Number of  Complaints wrt to Products/Services were found in Credit Card
+o	`Credit Card`  ~ 19,176 (25.36%)
+o	`Checking or Saving Account` ~ 13,436(17.79%)
+o	`Mortgage` ~ 12,470 (16.51%)
+* There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 pie Chart were created and dual axis feature was checked.
+* Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
+* The top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal. KPI was shown through dual axis feature.
+* For showing complaints in every state with increasing value, hex map was used to better view.
 
 
 
