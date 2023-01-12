@@ -34,7 +34,7 @@ o	`Mortgage` ~ 12,470 (16.51%)
 * There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 pie Chart were created and dual axis feature was checked.
 * Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
 * The top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal. KPI was shown through dual axis feature.
-* For showing complaints in every state with increasing value, hex map was used to better view.
+* To view complaints in each state with respective value, hex map was used.
 
 
 
