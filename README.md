@@ -1,5 +1,7 @@
 # Financial-Consumer-Complaint-Analysis-using-Tableau
 
+**Tableau Public Link** : https://public.tableau.com/app/profile/pooja.rathod/viz/FinancialConsumerComplaintKPIDashboardbyPoojaRathodRFWD/FinancialComplaintDashboard
+
 **Business Understanding**:
 
 Complaints can give us insights into problems people are experiencing in the marketplace and help us regulate consumer financial products and services under existing federal/state/ central  consumer  financial laws, enforce those laws judiciously, and educate and empower consumers to make informed financial decisions.
@@ -19,9 +21,9 @@ Release date : November 30th - Financial Consumer Complaints
 
 **Problem Approach**:
 
-•	I deduced various quantifiable measures  using  advanced charts, Hex map for better presentation geospatial distribution
-•	I created Calculated  fields, Parameter, Dashboard to derive and demonstrate KPIs.
-•	I connected and transformed raw data from Excel files and designed interactive reports and executive KPI dashboard to complete the task.
+•	 I deduced various quantifiable measures  using  advanced charts, Hex map for better presentation geospatial distribution
+•	 I created Calculated  fields, Parameter, Dashboard to derive and demonstrate KPIs.
+•	 I connected and transformed raw data from Excel files and designed interactive reports and executive KPI dashboard to complete the task.
 
 
 **INSIGHTS gained**:
