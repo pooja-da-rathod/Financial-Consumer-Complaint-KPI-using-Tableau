@@ -21,9 +21,9 @@ Release date : November 30th - Financial Consumer Complaints
 
 **Problem Approach**:
 
-•	 I deduced various quantifiable measures  using  advanced charts, Hex map for better presentation geospatial distribution
-•	 I created Calculated  fields, Parameter, Dashboard to derive and demonstrate KPIs.
-•	 I connected and transformed raw data from Excel files and designed interactive reports and executive KPI dashboard to complete the task.
+* I deduced various quantifiable measures  using  advanced charts, Hex map for better presentation geospatial distribution
+*	 I created Calculated  fields, Parameter, Dashboard to derive and demonstrate KPIs.
+*	 I connected and transformed raw data from Excel files and designed interactive reports and executive KPI dashboard to complete the task.
 
 
 **INSIGHTS gained**:
